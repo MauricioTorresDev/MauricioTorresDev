@@ -8,7 +8,7 @@
 <!-- SUBTÍTULO ANIMADO (TYPING EFFECT) -->
 <p align="center">
   <a href="https://github.com/MauricioTorresDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C6FF&center=true&vcenter=true&width=650&height=50&lines=Analista+de+Sistemas;Desarrollador+Full+Stack;Arquitecturas+Hexagonales+%26+Microservicios;Cloud+DevOps+%26+Backend+Specialist;Soluciones+Escalables+y+Seguras" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C6FF&center=true&vcenter=true&width=650&height=50&lines=Analista+de+Sistemas;Desarrollador+Full+Stack;Arquitectura+Hexagonal+%26+DDD;Microservicios+%26+Cloud+Native;Soluciones+Escalables+y+Seguras" alt="Typing Subtitle" />
   </a>
 </p>
 
@@ -262,6 +262,14 @@
     </tr>
   </table>
 </div>
+
+---
+
+## 📈 Actividad y Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioTorresDev&theme=tokyonight" alt="Racha y Contribuciones de GitHub" />
+</p>
 
 ---
 
