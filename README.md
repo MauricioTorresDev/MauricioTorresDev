@@ -2,27 +2,38 @@
 <!-- BANNER DE ENCABEZADO MODERNO Y ANIMADO -->
 <!-- ==================================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,25:161b22,50:0969da,75:1f6feb,100:04d361&height=220&section=header&text=Mauricio%20Torres%20Barahona&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Specialist%20%7C%20Cloud%20%26%20Microservices&descAlignY=58&descSize=18&descAlign=50" width="100%" alt="Mauricio Torres Barahona Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0052d4,75:4364f7,100:00c6ff&height=220&section=header&text=Mauricio%20Torres&fontSize=50&fontAlignY=36&fontColor=ffffff" width="100%" alt="Mauricio Torres Banner" />
 </p>
 
-<!-- ==================================================================== -->
-<!-- CONTADOR DE VISITAS Y REDES SOCIALES -->
-<!-- ==================================================================== -->
+<!-- SUBTÍTULO ANIMADO (TYPING EFFECT) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MauricioTorresDev&label=VISITAS+AL+PERFIL&color=0078D4&style=flat-square" alt="Visitas al perfil" />
+  <a href="https://github.com/MauricioTorresDev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C6FF&center=true&vcenter=true&width=650&height=50&lines=Analista+de+Sistemas;Desarrollador+Full+Stack;Arquitecturas+Hexagonales+%26+Microservicios;Cloud+DevOps+%26+Backend+Specialist;Soluciones+Escalables+y+Seguras" alt="Typing Subtitle" />
+  </a>
+</p>
+
+<!-- CONTADOR DE VISITAS Y REDES SOCIALES -->
+<p align="center">
+  <a href="https://github.com/MauricioTorresDev">
+    <img src="https://komarev.com/ghpvc/?username=MauricioTorresDev&color=0072ff&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mauricio-torres-barahona-8631b2297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:mauricio.torres.b@vallegrande.edu.pe">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://wa.me/51913104330" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
+
+<br>
 
 ---
 
@@ -30,7 +41,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <h3>🚀 Sobre Mí</h3>
       <p>
         Analista de Sistemas con formación práctica en desarrollo <b>Full Stack</b>, especializado en el diseño e implementación de arquitecturas distribuidas de alto rendimiento basadas en microservicios, <b>Domain-Driven Design (DDD)</b> y <b>Arquitectura Hexagonal</b>.
@@ -42,7 +53,7 @@
         <li>💼 <b>Disponibilidad:</b> Inmediata (Remoto / Presencial / Híbrido).</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top">
       <h3>🎯 Enfoque de Ingeniería</h3>
       <p><b>Backend & Arq:</b> Java Spring WebFlux, Node.js, Express, Microservicios, DDD, Arquitectura Hexagonal.</p>
       <p><b>Seguridad:</b> Keycloak, Spring Security, OAuth2, JWT, Firebase Auth.</p>
@@ -218,33 +229,47 @@
 
 ## 📜 Certificaciones Oficiales
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-CLOUD_FOUNDATIONS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Foundations" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/IBM-DATA_FUNDAMENTALS-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Fundamentals" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/DESIGN_THINKING-METODOLOGÍAS_ÁGILES-00A86B?style=for-the-badge&logo=trello&logoColor=white" alt="Design Thinking" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%" valign="top">
+        <a href="https://www.credly.com/badges/f4433bf9-f13b-4846-bc08-d231db2827fe" target="_blank">
+          <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="115" alt="AWS Academy Graduate - Cloud Foundations" />
+          <br>
+          <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+        </a>
+        <br>
+        <sub><b>Amazon Web Services</b></sub>
+      </td>
+      <td align="center" width="33%" valign="top">
+        <a href="https://www.credly.com/badges/a89f1a6d-21e0-4441-b30b-7919cc40a325" target="_blank">
+          <img src="https://images.credly.com/images/edaf0f19-2df0-4759-8871-7b1b44687f53/linkedin_thumb_image.png" width="115" alt="IBM Data Fundamentals" />
+          <br>
+          <img src="https://img.shields.io/badge/IBM-Data_Fundamentals-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Badge" />
+        </a>
+        <br>
+        <sub><b>IBM SkillsBuild</b></sub>
+      </td>
+      <td align="center" width="33%" valign="top">
+        <a href="https://www.credly.com/badges/7b5e99ed-1c86-448a-ac0a-527f0345777a" target="_blank">
+          <img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/linkedin_thumb_Badges_v8-07_Practitioner.png" width="115" alt="Enterprise Design Thinking Practitioner" />
+          <br>
+          <img src="https://img.shields.io/badge/IBM-Design_Thinking-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Design Thinking Badge" />
+        </a>
+        <br>
+        <sub><b>IBM Design</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📈 Dashboard Completo de Estadísticas
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauricioTorresDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioTorresDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioTorresDev&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0969da,50:1f6feb,100:0d1117&height=90&section=footer" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,35:4364f7,75:0052d4,100:0d1117&height=100&section=footer" width="100%" alt="Footer banner" />
 </p>
 
 <p align="center">
   <i>💡 "Construyendo software escalable, seguro y con ingeniería de excelencia." — Mauricio Torres Barahona</i>
 </p>
+
